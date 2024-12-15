@@ -58,6 +58,7 @@ This simple process ensures that the brackets are randomized, fair, and resistan
 ## Official Cyberbrawl Tournaments
 Here is a record of salts and players data used for seeding official tournaments. You can verify the seeding process against these values:
 
+### Beta Launch Tournament
 ```json
 {
     "players": [ "gonz0", "9x1r1s", "ihgux3", "2jw8kp", "vqnl28", "j52nl0", "kside", "q0vbp1", "m268p0", "master", "fo2xo6", "energy", "xqcaax", "garden", "zero", "joegkl",     
