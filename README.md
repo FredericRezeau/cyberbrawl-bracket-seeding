@@ -55,6 +55,10 @@ This simple process ensures that the brackets are randomized, fair, and resistan
   };
 ```
 
+Run it in CodeSandbox:
+
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/6p3szn)
+
 ## Official Cyberbrawl Tournaments
 Here is a record of salts and players data used for seeding official tournaments. You can verify the seeding process against these values:
 
@@ -67,7 +71,6 @@ Here is a record of salts and players data used for seeding official tournaments
     "hash": "6d1451adda4f44d3a1a27118388ea34db5c6c8316141378bd9467d4d64644c3e"
 }
 ```
-
 
 ## License
 MIT License
