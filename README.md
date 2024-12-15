@@ -56,11 +56,16 @@ This simple process ensures that the brackets are randomized, fair, and resistan
 ```
 
 ## Official Cyberbrawl Tournaments
-Here is a record of salts and their hashes for official tournaments. You can verify the seeding process by checking these values.
+Here is a record of salts and players data used for seeding official tournaments. You can verify the seeding process against these values:
 
-| Tournament           | Salt                                      | Salt hash (SHA-256)                                   | Players
-|----------------------|------------------------------------------|--------------------------------------------------------|----------------------|
-| Beta Launch Tournament | `b3d10071-a0f1-e368-abc0-74db4a61b028`     | 6d1451adda4f44d3a1a27118388ea34db5c6c8316141378bd9467d4d64644c3e | [List on Discord](https://litemint.gg)
+```json
+{
+    "players": [ "gonz0", "9x1r1s", "ihgux3", "2jw8kp", "vqnl28", "j52nl0", "kside", "q0vbp1", "m268p0", "master", "fo2xo6", "energy", "xqcaax", "garden", "zero", "joegkl",     
+"jdtgw9", "sqcleg", "y2g1mv", "3oblfz", "eesphk", "zkneug", "641m9e", "os1ugx", "dragon", "i7ge2a", "vuhyms", "q8yoqn", "6pqirj","kunkun"],
+    "salt": "b3d10071-a0f1-e368-abc0-74db4a61b028",
+    "hash": "6d1451adda4f44d3a1a27118388ea34db5c6c8316141378bd9467d4d64644c3e"
+}
+```
 
 
 ## License
